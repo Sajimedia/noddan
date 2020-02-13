@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Sajimedia/noddan/issues"
   },
-  "homepage": "https://github.com/Sajimedia/noddan#readme"
+  "homepage": "https://github.com/Sajimedia/noddan#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
