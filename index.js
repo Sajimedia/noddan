@@ -7,7 +7,7 @@ var port = process.env.PORT || 8080;
 
 // set the home page route
 app.get('/', function(req, res){
-   res.send('Hello World');
+   res.send('Welcome To The World Of Node');
 });
 
 app.listen(port, function() {
